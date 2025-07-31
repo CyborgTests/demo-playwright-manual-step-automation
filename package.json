@@ -1,0 +1,19 @@
+{
+  "name": "demo-playwright-manual-step-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "ui": "playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0"
+  },
+  "dependencies": {
+    "@cyborgtests/test": "^0.1.0"
+  }
+}

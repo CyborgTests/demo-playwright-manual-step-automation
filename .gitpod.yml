@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+ports:
+  - port: 6080
+    onOpen: open-preview
+
+tasks:
+  - command: |
+      npm install
+      npx playwright install chromium
+      npm run test
