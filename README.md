@@ -5,7 +5,7 @@
 **Choose one of the options below to get started. Both options provide full access to test editing and creation capabilities.**
 
 ### Option 1: Open in Gitpod
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/CyborgTests/demo-playwright-manual-step-automation)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CyborgTests/demo-playwright-manual-step-automation)
 
 **Pros:**
 - No local setup required
