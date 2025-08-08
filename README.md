@@ -65,10 +65,7 @@ cd demo-playwright-manual-step-automation
 
 ```bash
 npm install
-# For Linux (and CI), also install browsers with system dependencies:
 npx playwright install --with-deps
-# On macOS/Windows:
-# npx playwright install
 ```
 
 ---
