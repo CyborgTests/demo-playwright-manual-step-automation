@@ -186,7 +186,7 @@ npx playwright install --with-deps
 
 ### 7) Common issues
 
-* **"command not found: git / node / npm"** — install from section 8, restart terminal.
+* **"command not found: git / node / npm"** — install from section 6, restart terminal.
 * **Playwright cannot find browsers** — run `npx playwright install`.
 * **Permission errors on Linux** — use `sudo` for system deps or `nvm` for Node.
 * **Incompatible Node version** — switch to LTS (18/20) via nvm.
