@@ -49,14 +49,15 @@ git --version
 
 ### 2) Clone the demo repository
 
+HTTPS
 ```bash
-# HTTPS
 git clone https://github.com/CyborgTests/demo-playwright-manual-step-automation.git
 cd demo-playwright-manual-step-automation
-
-# or SSH (if keys are set up)
-# git clone git@github.com:CyborgTests/demo-playwright-manual-step-automation.git
-# cd demo-playwright-manual-step-automation
+```
+or SSH (if keys are set up)
+```bash
+git clone git@github.com:CyborgTests/demo-playwright-manual-step-automation.git
+cd demo-playwright-manual-step-automation
 ```
 
 ---
